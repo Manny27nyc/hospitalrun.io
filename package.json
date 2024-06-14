@@ -40,6 +40,6 @@
   },
   "devDependencies": {
     "gulp": "^4.0.0",
-    "node-sass": "^4.10.0"
+    "node-sass": "^9.0.0"
   }
 }
